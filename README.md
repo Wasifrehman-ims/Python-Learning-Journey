@@ -1,2 +1,2 @@
 # Python-Learning-Journey
-A collection of Python programs created while learning Python from basics to advanced concepts.
+A structured collection of Python programs and projects covering concepts from beginner to advanced, documenting my learning journey.
