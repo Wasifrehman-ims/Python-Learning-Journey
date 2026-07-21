@@ -1,15 +1,17 @@
 # What are variables? 
 # Variables are used to store data in memory.
-# Example
+# Example of different variables
 
-name = 'Wasif rehman'
+name = "Wasif Rehman"
 age = 22
-country = "Pakistan"
-is_student = True
+city = "Peshawar"
+university = "IMSciences Peshawar"
+semester = "2nd"
 
-print('Your name :',name)
+print('Your name :', name)
 print("Your age :",age)
-print("Your country :",country)
-print("Student ?",is_student)
+print("Your city :", city)
+print("Your university :", university)
+print("semester :",semester)
 
-print (name , age, country , is_student) # will print in same line
+print (name , age, city , university ,semester) # Print all variables on a single line.
